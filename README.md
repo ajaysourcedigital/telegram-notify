@@ -7,6 +7,7 @@
 > Vercel 分配的域名在中国大陆无法访问, 需使用自定义域名, 并修改 CNAME 记录为 `cname-china.vercel-dns.com.`
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F0wQ%2Ftelegram-notify)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=0wQ/telegram-notify&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ### 本地运行
 
